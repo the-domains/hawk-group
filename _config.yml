@@ -1,0 +1,14 @@
+layout_spectrum: 0.2383513
+typography_spectrum: 0.9014337
+color:
+  saturation: 0.1236559
+  lightness: 0.5300995
+  brandStrength: 0.06515684
+  brandColors:
+    - '#FFFFFF'
+    - '#393939'
+    - '#D8D8D8'
+    - '#7E7E7E'
+    - '#A7A7A7'
+  rhythmicContrast: 0.1379928
+name: Hawk Group
